@@ -1,8 +1,12 @@
-# Ejemplo de la organización del proyecto
+# Informe del Proyecto Final de OMICs
 
 **Autores:** Ivonne Vaca
 
 **Fecha:**  febrero de 2024
+
+## Tema
+
+Identificación molecular de hongos filamentosos asociados a los suelos de la Hacienda “El Prado” - IASA I
 
 ## Introducción
 
